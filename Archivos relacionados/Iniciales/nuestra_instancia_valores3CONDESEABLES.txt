@@ -1,0 +1,191 @@
+Funcion objetivo:  941706.0 (integer optimal solution)
+
+** Creation Runtime: 0:0:29
+** Execution Default Runtime: 1:5:34
+
+La tarea 15, el trabajador 1, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 15, el trabajador 8, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 15, el trabajador 9, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 24, el trabajador 2, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 24, el trabajador 4, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 24, el trabajador 7, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 29, el trabajador 0, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 29, el trabajador 3, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 29, el trabajador 5, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 29, el trabajador 6, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 30, el trabajador 2, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 30, el trabajador 4, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 30, el trabajador 7, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 41, el trabajador 0, el horario 0, el dia 0, rango salarial 3: 1.0
+La tarea 41, el trabajador 5, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 41, el trabajador 6, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 45, el trabajador 0, el horario 2, el dia 2, rango salarial 2: 1.0
+La tarea 45, el trabajador 3, el horario 2, el dia 2, rango salarial 0: 1.0
+La tarea 45, el trabajador 7, el horario 2, el dia 2, rango salarial 2: 1.0
+La tarea 56, el trabajador 0, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 56, el trabajador 3, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 56, el trabajador 5, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 56, el trabajador 6, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 58, el trabajador 1, el horario 4, el dia 0, rango salarial 1: 1.0
+La tarea 58, el trabajador 8, el horario 4, el dia 0, rango salarial 0: 1.0
+La tarea 58, el trabajador 9, el horario 4, el dia 0, rango salarial 0: 1.0
+La tarea 72, el trabajador 1, el horario 1, el dia 2, rango salarial 0: 1.0
+La tarea 72, el trabajador 8, el horario 1, el dia 2, rango salarial 0: 1.0
+La tarea 72, el trabajador 9, el horario 1, el dia 2, rango salarial 1: 1.0
+La tarea 77, el trabajador 0, el horario 1, el dia 2, rango salarial 1: 1.0
+La tarea 77, el trabajador 5, el horario 1, el dia 2, rango salarial 3: 1.0
+La tarea 77, el trabajador 6, el horario 1, el dia 2, rango salarial 1: 1.0
+La tarea 95, el trabajador 1, el horario 2, el dia 3, rango salarial 1: 1.0
+La tarea 95, el trabajador 2, el horario 2, el dia 3, rango salarial 0: 1.0
+La tarea 95, el trabajador 5, el horario 2, el dia 3, rango salarial 0: 1.0
+La tarea 95, el trabajador 6, el horario 2, el dia 3, rango salarial 0: 1.0
+La tarea 95, el trabajador 8, el horario 2, el dia 3, rango salarial 0: 1.0
+La tarea 96, el trabajador 2, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 96, el trabajador 4, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 96, el trabajador 7, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 112, el trabajador 1, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 112, el trabajador 3, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 112, el trabajador 8, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 112, el trabajador 9, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 133, el trabajador 0, el horario 2, el dia 2, rango salarial 0: 1.0
+La tarea 133, el trabajador 6, el horario 2, el dia 2, rango salarial 1: 1.0
+La tarea 133, el trabajador 7, el horario 2, el dia 2, rango salarial 0: 1.0
+La tarea 141, el trabajador 2, el horario 0, el dia 0, rango salarial 3: 1.0
+La tarea 141, el trabajador 4, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 141, el trabajador 7, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 161, el trabajador 0, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 161, el trabajador 3, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 161, el trabajador 6, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 161, el trabajador 7, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 168, el trabajador 0, el horario 4, el dia 2, rango salarial 1: 1.0
+La tarea 168, el trabajador 3, el horario 4, el dia 2, rango salarial 2: 1.0
+La tarea 168, el trabajador 5, el horario 4, el dia 2, rango salarial 0: 1.0
+La tarea 168, el trabajador 6, el horario 4, el dia 2, rango salarial 0: 1.0
+La tarea 177, el trabajador 2, el horario 4, el dia 1, rango salarial 1: 1.0
+La tarea 177, el trabajador 4, el horario 4, el dia 1, rango salarial 2: 1.0
+La tarea 177, el trabajador 7, el horario 4, el dia 1, rango salarial 1: 1.0
+La tarea 181, el trabajador 1, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 181, el trabajador 3, el horario 0, el dia 0, rango salarial 3: 1.0
+La tarea 181, el trabajador 8, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 181, el trabajador 9, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 206, el trabajador 0, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 206, el trabajador 3, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 206, el trabajador 6, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 208, el trabajador 1, el horario 4, el dia 4, rango salarial 1: 1.0
+La tarea 208, el trabajador 2, el horario 4, el dia 4, rango salarial 0: 1.0
+La tarea 208, el trabajador 4, el horario 4, el dia 4, rango salarial 2: 1.0
+La tarea 208, el trabajador 5, el horario 4, el dia 4, rango salarial 2: 1.0
+La tarea 208, el trabajador 8, el horario 4, el dia 4, rango salarial 1: 1.0
+La tarea 231, el trabajador 1, el horario 4, el dia 3, rango salarial 2: 1.0
+La tarea 231, el trabajador 2, el horario 4, el dia 3, rango salarial 2: 1.0
+La tarea 231, el trabajador 4, el horario 4, el dia 3, rango salarial 1: 1.0
+La tarea 231, el trabajador 7, el horario 4, el dia 3, rango salarial 0: 1.0
+La tarea 231, el trabajador 8, el horario 4, el dia 3, rango salarial 2: 1.0
+La tarea 233, el trabajador 2, el horario 3, el dia 2, rango salarial 2: 1.0
+La tarea 233, el trabajador 4, el horario 3, el dia 2, rango salarial 0: 1.0
+La tarea 233, el trabajador 7, el horario 3, el dia 2, rango salarial 3: 1.0
+La tarea 237, el trabajador 0, el horario 3, el dia 1, rango salarial 2: 1.0
+La tarea 237, el trabajador 5, el horario 3, el dia 1, rango salarial 0: 1.0
+La tarea 237, el trabajador 6, el horario 3, el dia 1, rango salarial 2: 1.0
+La tarea 245, el trabajador 1, el horario 3, el dia 5, rango salarial 1: 1.0
+La tarea 245, el trabajador 3, el horario 3, el dia 5, rango salarial 1: 1.0
+La tarea 245, el trabajador 8, el horario 3, el dia 5, rango salarial 1: 1.0
+La tarea 245, el trabajador 9, el horario 3, el dia 5, rango salarial 0: 1.0
+La tarea 259, el trabajador 0, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 259, el trabajador 3, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 259, el trabajador 5, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 259, el trabajador 6, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 260, el trabajador 2, el horario 0, el dia 1, rango salarial 0: 1.0
+La tarea 260, el trabajador 4, el horario 0, el dia 1, rango salarial 2: 1.0
+La tarea 260, el trabajador 7, el horario 0, el dia 1, rango salarial 0: 1.0
+La tarea 266, el trabajador 0, el horario 4, el dia 0, rango salarial 0: 1.0
+La tarea 266, el trabajador 3, el horario 4, el dia 0, rango salarial 2: 1.0
+La tarea 266, el trabajador 7, el horario 4, el dia 0, rango salarial 2: 1.0
+La tarea 279, el trabajador 0, el horario 1, el dia 2, rango salarial 2: 1.0
+La tarea 279, el trabajador 3, el horario 1, el dia 2, rango salarial 1: 1.0
+La tarea 279, el trabajador 5, el horario 1, el dia 2, rango salarial 0: 1.0
+La tarea 279, el trabajador 6, el horario 1, el dia 2, rango salarial 0: 1.0
+La tarea 296, el trabajador 1, el horario 3, el dia 3, rango salarial 2: 1.0
+La tarea 296, el trabajador 4, el horario 3, el dia 3, rango salarial 1: 1.0
+La tarea 296, el trabajador 8, el horario 3, el dia 3, rango salarial 2: 1.0
+La tarea 297, el trabajador 0, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 297, el trabajador 5, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 297, el trabajador 6, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 302, el trabajador 1, el horario 4, el dia 3, rango salarial 0: 1.0
+La tarea 302, el trabajador 3, el horario 4, el dia 3, rango salarial 0: 1.0
+La tarea 302, el trabajador 5, el horario 4, el dia 3, rango salarial 2: 1.0
+La tarea 302, el trabajador 6, el horario 4, el dia 3, rango salarial 2: 1.0
+La tarea 302, el trabajador 8, el horario 4, el dia 3, rango salarial 1: 1.0
+La tarea 325, el trabajador 1, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 325, el trabajador 2, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 325, el trabajador 4, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 325, el trabajador 5, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 325, el trabajador 8, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 350, el trabajador 1, el horario 0, el dia 4, rango salarial 0: 1.0
+La tarea 350, el trabajador 3, el horario 0, el dia 4, rango salarial 2: 1.0
+La tarea 350, el trabajador 5, el horario 0, el dia 4, rango salarial 1: 1.0
+La tarea 350, el trabajador 8, el horario 0, el dia 4, rango salarial 2: 1.0
+La tarea 350, el trabajador 9, el horario 0, el dia 4, rango salarial 0: 1.0
+La tarea 361, el trabajador 1, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 361, el trabajador 2, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 361, el trabajador 4, el horario 0, el dia 0, rango salarial 3: 1.0
+La tarea 361, el trabajador 5, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 361, el trabajador 8, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 369, el trabajador 2, el horario 4, el dia 0, rango salarial 0: 1.0
+La tarea 369, el trabajador 4, el horario 4, el dia 0, rango salarial 0: 1.0
+La tarea 369, el trabajador 7, el horario 4, el dia 0, rango salarial 2: 1.0
+La tarea 377, el trabajador 2, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 377, el trabajador 4, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 377, el trabajador 7, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 381, el trabajador 0, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 381, el trabajador 3, el horario 0, el dia 0, rango salarial 0: 1.0
+La tarea 381, el trabajador 6, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 383, el trabajador 1, el horario 0, el dia 0, rango salarial 2: 1.0
+La tarea 383, el trabajador 3, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 383, el trabajador 8, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 383, el trabajador 9, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 388, el trabajador 1, el horario 4, el dia 0, rango salarial 3: 1.0
+La tarea 388, el trabajador 2, el horario 4, el dia 0, rango salarial 2: 1.0
+La tarea 388, el trabajador 4, el horario 4, el dia 0, rango salarial 2: 1.0
+La tarea 388, el trabajador 5, el horario 4, el dia 0, rango salarial 1: 1.0
+La tarea 388, el trabajador 8, el horario 4, el dia 0, rango salarial 3: 1.0
+La tarea 392, el trabajador 2, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 392, el trabajador 4, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 392, el trabajador 7, el horario 0, el dia 0, rango salarial 1: 1.0
+La tarea 394, el trabajador 0, el horario 4, el dia 1, rango salarial 1: 1.0
+La tarea 394, el trabajador 6, el horario 4, el dia 1, rango salarial 3: 1.0
+La tarea 394, el trabajador 7, el horario 4, el dia 1, rango salarial 1: 1.0
+En la tarea 29 conflicto entre el trabajador 6 y el trabajador 3: 1.0
+En la tarea 56 conflicto entre el trabajador 6 y el trabajador 3: 1.0
+En la tarea 95 conflicto entre el trabajador 2 y el trabajador 8: 1.0
+En la tarea 95 conflicto entre el trabajador 6 y el trabajador 1: 1.0
+En la tarea 95 conflicto entre el trabajador 6 y el trabajador 2: 1.0
+En la tarea 112 conflicto entre el trabajador 8 y el trabajador 3: 1.0
+En la tarea 133 conflicto entre el trabajador 7 y el trabajador 6: 1.0
+En la tarea 161 conflicto entre el trabajador 6 y el trabajador 3: 1.0
+En la tarea 161 conflicto entre el trabajador 7 y el trabajador 6: 1.0
+En la tarea 168 conflicto entre el trabajador 6 y el trabajador 3: 1.0
+En la tarea 181 conflicto entre el trabajador 8 y el trabajador 3: 1.0
+En la tarea 206 conflicto entre el trabajador 6 y el trabajador 3: 1.0
+En la tarea 208 conflicto entre el trabajador 2 y el trabajador 8: 1.0
+En la tarea 208 conflicto entre el trabajador 5 y el trabajador 4: 1.0
+En la tarea 231 conflicto entre el trabajador 2 y el trabajador 8: 1.0
+En la tarea 231 conflicto entre el trabajador 7 y el trabajador 1: 1.0
+En la tarea 231 conflicto entre el trabajador 8 y el trabajador 7: 1.0
+En la tarea 245 conflicto entre el trabajador 8 y el trabajador 3: 1.0
+En la tarea 259 conflicto entre el trabajador 6 y el trabajador 3: 1.0
+En la tarea 279 conflicto entre el trabajador 6 y el trabajador 3: 1.0
+En la tarea 302 conflicto entre el trabajador 6 y el trabajador 1: 1.0
+En la tarea 302 conflicto entre el trabajador 6 y el trabajador 3: 1.0
+En la tarea 302 conflicto entre el trabajador 8 y el trabajador 3: 1.0
+En la tarea 325 conflicto entre el trabajador 2 y el trabajador 8: 1.0
+En la tarea 325 conflicto entre el trabajador 5 y el trabajador 4: 1.0
+En la tarea 350 conflicto entre el trabajador 5 y el trabajador 9: 1.0
+En la tarea 350 conflicto entre el trabajador 8 y el trabajador 3: 1.0
+En la tarea 361 conflicto entre el trabajador 2 y el trabajador 8: 1.0
+En la tarea 361 conflicto entre el trabajador 5 y el trabajador 4: 1.0
+En la tarea 381 conflicto entre el trabajador 6 y el trabajador 3: 1.0
+En la tarea 383 conflicto entre el trabajador 8 y el trabajador 3: 1.0
+En la tarea 388 conflicto entre el trabajador 2 y el trabajador 8: 1.0
+En la tarea 388 conflicto entre el trabajador 5 y el trabajador 4: 1.0
+En la tarea 394 conflicto entre el trabajador 7 y el trabajador 6: 1.0

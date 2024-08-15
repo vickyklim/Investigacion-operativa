@@ -1,0 +1,52 @@
+
+
+** Creation Runtime: 0:22:50
+Version identifier: 22.1.1.0 | 2022-11-27 | 9160aff4d 
+CPXPARAM_Read_DataCheck                          1    
+CPXPARAM_MIP_Tolerances_MIPGap                   1e-10
+Found incumbent of value 0.000000 after 0.69 sec. (531.38 ticks)
+Presolve has eliminated 1635729 rows and 17461257 columns...
+Aggregator has done 385 substitutions...
+Tried aggregator 2 times.
+MIP Presolve eliminated 1639887 rows and 17461257 columns.
+MIP Presolve modified 3330758 coefficients.
+Aggregator did 385 substitutions.
+Reduced MIP has 186128 rows, 3347158 columns, and 26057789 nonzeros.
+Reduced MIP has 3346558 binaries, 600 generals, 0 SOSs, and 0 indicators.
+Presolve time = 57.66 sec. (100931.23 ticks)
+Presolve has eliminated 0 rows and 0 columns...
+Tried aggregator 1 time.
+Detecting symmetries...
+Elapsed time for symmetry detection = 11.30 sec. (10030.03 ticks)
+Elapsed time for symmetry detection = 36.62 sec. (20030.47 ticks)
+Elapsed time for symmetry detection = 70.05 sec. (30037.85 ticks)
+Elapsed time for symmetry detection = 99.64 sec. (40040.45 ticks)
+Elapsed time for symmetry detection = 127.55 sec. (50040.48 ticks)
+Elapsed time for symmetry detection = 154.58 sec. (60044.80 ticks)
+Found 3.608588e+3681 symmetric permutations.
+Reduced MIP has 186128 rows, 3347158 columns, and 26057789 nonzeros.
+Reduced MIP has 3346558 binaries, 600 generals, 0 SOSs, and 0 indicators.
+Presolve time = 182.88 sec. (99934.83 ticks)
+Probing time = 8.98 sec. (1009.19 ticks)
+Clique table members: 14477303.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 6 threads.
+Root relaxation solution time = 22.91 sec. (11316.98 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000  3964161.0000              ---
+      0     0  2571176.0000   736        0.0000  2571176.0000     6451     --- 
+Warning: MIP starts not constructed because of out-of-memory status.
+
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =  344.14 sec. (239265.47 ticks)
+CPLEX Error  1001: Out of memory.
+Fallo por  CPLEX Error  1001: Out of memory.
+Funcion objetivo:  0.0 (error termination)
+
+** Execution Default Runtime: 0:6:4

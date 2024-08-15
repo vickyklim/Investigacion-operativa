@@ -1,0 +1,11 @@
+
+** Tiempo de creación del LP:0:0:16
+** Tiempo de resolución del LP sin variar parámetos:0:1:21
+** Tiempo variando Depth-first search : 0:1:78
+** Tiempo usando el pseudocosto: 0:0:19
+** Tiempo eligiendo strong branching: 0:0:20
+** Tiempo quitándole el preprosesamiento: 0:0:32
+** Tiempo eligiendo "más heurísticas": 0:2:121
+** Tiempo sin los cortes en la raiz: 0:1:115
+** Tiempo sin los cortes en los nodos: 0:0:59
+** Tiempo total: 0:11:661

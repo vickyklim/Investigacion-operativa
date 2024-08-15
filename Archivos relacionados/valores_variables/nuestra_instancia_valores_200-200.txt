@@ -1,0 +1,7 @@
+Funcion objetivo: 0.0(error termination)
+
+
+** Creation Runtime:0:22:50
+** Execution Default Runtime:0:6:4
+
+

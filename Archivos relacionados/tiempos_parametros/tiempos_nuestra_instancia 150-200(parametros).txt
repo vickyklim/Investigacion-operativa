@@ -1,0 +1,11 @@
+
+** Creation Runtime:0:10:20
+** Execution Default Runtime:0:10:51
+** Depth-first search time (nodeselect): 0:11:673
+** Pseudocosto time (variableselect): 0:12:728
+** Strong branching time (variableselect): 0:10:614
+** Preprosesamiento time (variableselect): 0:10:624
+** Con mas heuristicas time: 0:10:618
+** Termina de ejecutar sin los cortes en la raiz time 0:8:538
+** Termina de ejecutar sin los cortes en los nodos time: 0:10:618
+** Tiempo total: 2:46:2819

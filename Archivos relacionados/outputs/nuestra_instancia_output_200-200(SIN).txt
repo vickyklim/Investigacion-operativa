@@ -1,0 +1,56 @@
+** Creation Runtime: 0:22:33
+Version identifier: 22.1.1.0 | 2022-11-27 | 9160aff4d
+CPXPARAM_Read_DataCheck                          1
+CPXPARAM_MIP_Tolerances_MIPGap                   1e-10
+Found incumbent of value 0.000000 after 0.17 sec. (130.65 ticks)
+Presolve has eliminated 1634529 rows and 1476657 columns...
+Tried aggregator 2 times.
+MIP Presolve eliminated 1638687 rows and 1476657 columns.
+MIP Presolve modified 3330758 coefficients.
+Aggregator did 385 substitutions.
+Reduced MIP has 155328 rows, 3331758 columns, and 20869869 nonzeros.
+Reduced MIP has 3331158 binaries, 600 generals, 0 SOSs, and 0 indicators.
+Presolve time = 32.47 sec. (40482.39 ticks)
+Presolve has eliminated 0 rows and 0 columns...
+Tried aggregator 1 time.
+Detecting symmetries...
+Elapsed time for symmetry detection = 12.03 sec. (10022.88 ticks)
+Elapsed time for symmetry detection = 38.98 sec. (20023.16 ticks)
+Elapsed time for symmetry detection = 74.03 sec. (30025.70 ticks)
+Elapsed time for symmetry detection = 105.97 sec. (40025.83 ticks)
+Elapsed time for symmetry detection = 136.30 sec. (50028.12 ticks)
+Found 2.492708e+3801 symmetric permutations.
+Reduced MIP has 155328 rows, 3331758 columns, and 20869869 nonzeros.
+Reduced MIP has 3331158 binaries, 600 generals, 0 SOSs, and 0 indicators.
+Presolve time = 187.11 sec. (109359.60 ticks)
+Probing time = 7.09 sec. (927.01 ticks)
+Clique table members: 11867943.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 6 threads.
+Root relaxation solution time = 19.83 sec. (10143.78 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                            0.0000  3964161.0000              ---
+      0     0  2571176.0000   891        0.0000  2571176.0000     4785     --- 
+*     0+    0                      2571176.0000  2571176.0000             0.00%
+      0     0        cutoff        2571176.0000  2571176.0000     4791    0.00%
+Elapsed time = 812.80 sec. (714449.88 ticks, tree = 0.01 MB, solutions = 2)
+
+Cover cuts applied:  2
+Mixed integer rounding cuts applied:  1
+Zero-half cuts applied:  1
+
+Root node processing (before b&c):
+  Real time             =  814.19 sec. (714708.08 ticks)
+Parallel b&c, 6 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =  814.19 sec. (714708.08 ticks)
+Funcion objetivo:  2571176.0 (integer optimal solution)
+
+** Execution Default Runtime: 0:13:37
